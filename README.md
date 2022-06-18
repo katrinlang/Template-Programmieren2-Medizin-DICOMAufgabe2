@@ -1,6 +1,6 @@
 # DICOM-Teilaufgabe 2
 
-In dieser Woche beginnen wir, das GUI zur Anzeige der DICOM-Dateien (in Anlehnung an Ihre Ergebnisse aus dem Workshp) zu implementieren.
+In dieser Woche beginnen wir, das GUI zur Anzeige der DICOM-Dateien (in Anlehnung an Ihre Ergebnisse aus dem Workshop) zu implementieren.
 
 Auch hier lohnt es sich, zunächst die komplette Aufgabenstellung zu lesen um die Zusammenhänge und den Programmaufbau zu verstehen, bevor Sie mit der Implementation beginnen, und dann schrittweise vorzugehen (also z. B. zuerst das ```MainFrame``` mit drei ```JLabel```, um zu sehen, dass es ein Fenster gibt und Sie die Labels da sehen, wo diese hingehören; dann um ein ```ImageListPanel```, das nichts außer dem Titel-Label anzeigt erweitern; dann ein ```ImageDetailPanel``` hinzufügen, das einfach nur ein rotes Viereck mit der richtigen Größe zeichnet - und so weiter und so fort).
 
