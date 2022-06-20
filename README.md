@@ -10,7 +10,7 @@ Bevor wir beginnen, noch ein Hinweis zu der Implementation von GUIs: Jede ```JCo
 
 Erweitern Sie zunächst dafür DICOMImage um die folgenden zwei Hilfsmethoden:
 
-* ```public void getFrame(int num)```: Gibt das ```DICOMFrame``` mit der entsprechenden Nummer zurück.
+* ```public DICOMFRame getFrame(int num)```: Gibt das ```DICOMFrame``` mit der entsprechenden Nummer zurück.
 * ```public int getNumFrames()```: Gibt die Anzahl der frames im dem Bild zurück.
 
 
